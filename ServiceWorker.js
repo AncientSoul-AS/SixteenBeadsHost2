@@ -2,7 +2,7 @@ const cacheName = "RayYard-SixteenBeads-1.0";
 const contentToCache = [
     "Build/9853637125e801e9aae48e78dbbdcfca.loader.js",
     "Build/45e4b13b9211f636a649f525703d63a5.framework.js.unityweb",
-    "Build/cfaff30f5df5c97ec03e0489c339b117.data.unityweb",
+    "Build/baefd5e1b23e034348094333a241cf2c.data.unityweb",
     "Build/8363b4628ef3452f4a974993678ccd5c.wasm.unityweb",
     "TemplateData/style.css"
 
